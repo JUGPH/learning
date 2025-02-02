@@ -1,6 +1,27 @@
 # JUG PH Learning Resources
 A repository of the Philippine Java Community learning resources for reskilling and upskilling.
 
+<!-- TOC -->
+* [JUG PH Learning Resources](#jug-ph-learning-resources)
+  * [New to Java? Start with the Java Explorer Path](#new-to-java-start-with-the-java-explorer-path)
+  * [Modern Java Frameworks](#modern-java-frameworks)
+  * [Java Data Engineering](#java-data-engineering)
+  * [Mobile Programming](#mobile-programming)
+  * [Modern Front-end Programming using Java](#modern-front-end-programming-using-java)
+  * [Free Cloud Certifications and Materials](#free-cloud-certifications-and-materials)
+  * [Container and Orchestration](#container-and-orchestration)
+  * [Generative AI](#generative-ai)
+  * [Generative AI in Java](#generative-ai-in-java)
+  * [Predictive AI](#predictive-ai)
+  * [Predictive AI in Java](#predictive-ai-in-java)
+  * [Big Data](#big-data)
+  * [Useful Online Academies](#useful-online-academies)
+  * [News, Tutorials and Blogs](#news-tutorials-and-blogs)
+* [Issues and Contributions](#issues-and-contributions)
+  * [Encountered an issue?](#encountered-an-issue)
+  * [Proposing a change?](#proposing-a-change)
+<!-- TOC -->
+
 ## New to Java? Start with the Java Explorer Path
 Java Explorer Path: https://mylearn.oracle.com/ou/learning-path/java-explorer/79726
 
@@ -104,3 +125,10 @@ Java Explorer Path: https://mylearn.oracle.com/ou/learning-path/java-explorer/79
 * Infoq: https://www.infoq.com/
 * DZone: https://dzone.com/
 * Javatpoint: https://www.javatpoint.com/
+
+# Issues and Contributions
+## Encountered an issue?
+* Submit an issue and a justification: https://github.com/JUGPH/learning/issues
+## Proposing a change?
+* Submitting a new learning material link or proposing a change? Please fork this repository and submit a pull request: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
+  * If your change is another heading or sub-heading, please check if you need to update the table of contents
