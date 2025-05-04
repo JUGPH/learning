@@ -111,6 +111,13 @@ Java Explorer Path: https://mylearn.oracle.com/ou/learning-path/java-explorer/79
 * Big Data at IBM: https://cognitiveclass.ai/learn/big-data-ibm
 * Google Cloud Big Data and Machine Learning Fundamentals: https://www.cloudskillsboost.google/course_templates/3
 
+## Architecture and Systems Design
+* Awesome Software Architecture: https://awesome-architecture.com/
+* Architectural Kata: https://www.architecturalkatas.com/
+* Systems Design Primer: https://github.com/donnemartin/system-design-primer
+* Software Architecture Monday: https://www.youtube.com/@markrichards5014/videos
+* ByteByteGo: https://www.youtube.com/@ByteByteGo/videos
+
 ## Useful Online Academies
 * Udemy: https://www.udemy.com/
 * Codecademy: https://www.codecademy.com/
