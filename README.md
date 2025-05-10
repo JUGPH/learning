@@ -4,6 +4,7 @@ A repository of the Philippine Java Community learning resources for reskilling 
 <!-- TOC -->
 * [JUG PH Learning Resources](#jug-ph-learning-resources)
   * [New to Java? Start with the Java Explorer Path](#new-to-java-start-with-the-java-explorer-path)
+  * [Review the Fundamentals](#review-the-fundamentals)
   * [Modern Java Frameworks](#modern-java-frameworks)
   * [Java Data Engineering](#java-data-engineering)
   * [Mobile Programming](#mobile-programming)
@@ -15,6 +16,7 @@ A repository of the Philippine Java Community learning resources for reskilling 
   * [Predictive AI](#predictive-ai)
   * [Predictive AI in Java](#predictive-ai-in-java)
   * [Big Data](#big-data)
+  * [Architecture and Systems Design](#architecture-and-systems-design)
   * [Useful Online Academies](#useful-online-academies)
   * [News, Tutorials and Blogs](#news-tutorials-and-blogs)
 * [Issues and Contributions](#issues-and-contributions)
@@ -24,6 +26,12 @@ A repository of the Philippine Java Community learning resources for reskilling 
 
 ## New to Java? Start with the Java Explorer Path
 Java Explorer Path: https://mylearn.oracle.com/ou/learning-path/java-explorer/79726
+
+## Review the Fundamentals
+
+* Open Source Society Computer Science: https://github.com/ossu/computer-science
+* Baeldung Computer Science: https://www.baeldung.com/cs/
+* Big-O Complexity Cheat Sheet: https://www.bigocheatsheet.com/
 
 ## Modern Java Frameworks
 * Spring Framework and Spring Boot: https://spring.academy/
