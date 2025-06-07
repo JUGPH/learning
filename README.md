@@ -61,15 +61,15 @@ Java Explorer Path: https://mylearn.oracle.com/ou/learning-path/java-explorer/79
 * Kotlin:
   * https://www.amigoscode.com/courses/kotlin
   * https://www.youtube.com/watch?v=TEXaoSC_8lQ
-* Kotlin Bootcamp: https://developer.android.com/courses/kotlin-bootcamp/overview
+* Kotlin Bootcamp (Finding Free Replacement): TBD
 
 ## Modern Front-end Programming using Java
 * Vaadin Flow: https://vaadin.com/docs/latest/guide/quick-start
 * Hilla: https://hilla.dev/docs/react/start/basics
 
 ## Free Cloud Certifications and Materials
-* OCI Foundations: https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2023/122043
-* OCI AI Foundations: https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate-2023/127177
+* OCI Foundations 2025: https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056
+* OCI AI Foundations 2025: https://mylearn.oracle.com/ou/learning-path/become-a-oci-ai-foundations-associate-2025/147781
 * AWS Cloud Quest: https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11458/aws-cloud-quest-cloud-practitioner
 * IBM Cloud Essentials: https://apps.cognitiveclass.ai/learning/course/course-v1:IBMDeveloperSkillsNetwork+CC0103EN+v3/home
 * Google Cloud Architect Learning Path: https://www.cloudskillsboost.google/paths/12
